@@ -4,7 +4,7 @@
 
 <h1>💫 About Me:</h1><br><img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
      alt="coding" 
-     style="width: 280px; height: 170px; float: right; padding: 10px;">
+     style="width: 270px; height: 160px; float: right; padding: 10px;">
 🌱 I’m currently learning Python Framework |"Django"|<br><br>📫 How to reach me: jayeshrsathawane123@gmail.com<br><br>
 
 
