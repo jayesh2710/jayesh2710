@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/jayesh2710/jayesh2710/blob/main/banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Jayesh Sathawane</h1>
 <h3 align="center">💡 Django Developer in Progress.</h3>
 
